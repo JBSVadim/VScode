@@ -1,0 +1,19 @@
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.main-text {
+font-size: 18px;
+text-indent: 1.2em;
+font-style: italic;
+font-family: work-sans, sans-serif;
+}
+.main-header {
+font-size: 42px;
+text-align: left;
+text-transform: uppercase;
+}
+.main-container {
+font-size: 26px;
+text-indent: 1.2em;
+}
